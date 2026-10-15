@@ -1,4 +1,4 @@
-# MarshMallowAPI Backend
+# Marshmallow Backend
 
 A REST API for a simple order-management domain (users, products, categories, orders, order items and payments), built with Spring Boot and Spring Data JPA. It runs on an in-memory H2 database that is seeded with sample data at startup, and allows CORS from a local Vite frontend (`http://localhost:5173`).
 
